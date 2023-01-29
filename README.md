@@ -3,7 +3,7 @@ Power Bi project
 
 ### survey infoformation:
 
-The raw dataset contains information of data analyst, data architect, data engineer, data scientis, database develover, student etc. More than 630 people have paritcipate in this survey and their average is apporoximatly 29.
+The raw dataset contains information of data analyst, data architect, data engineer, data scientist, database develover, student etc. More than 630 people have paritcipate in this survey and their average is apporoximatly 29.
 
 ### Outcomes form the porject:
 
