@@ -1,7 +1,7 @@
 # Data-profession-survey-breakdown
 Power Bi project
 
-### survey infoformation:
+### survey information:
 
 The raw dataset contains information of data analyst, data architect, data engineer, data scientist, database develover, student etc. More than 630 people have paritcipate in this survey and their average is apporoximatly 29.
 
