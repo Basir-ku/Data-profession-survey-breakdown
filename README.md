@@ -9,5 +9,5 @@ The raw dataset contains information of data analyst, data architect, data engin
 
 1. Discrepancies of average salary and I found this also varies with survey areas.
 2. Most paid programmaer depending on programming languages and living areas.
-3. Level of difficulty to break into data.
+3. Level of difficulty different programmers face to break into data.
 4. Moreover, work-life and salary balance/satisfaction.
